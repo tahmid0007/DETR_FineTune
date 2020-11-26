@@ -21,4 +21,8 @@ Find the original paper [here](https://arxiv.org/abs/2005.12872).
 	- do not load weights from state_dict
 # Custom Dataset
 - Use any CoCo style dataset.
-- This Repo has 3 such Custom datasets: start with Chess
+- This Repo has a Custom dataset: Download Project_DETR_Official_CocoStyle.zip for code+datasets
+
+# More Easy to follow Transformer-based CNN repos
+- [Visual Transformer](https://github.com/tahmid0007/VisualTransformers)
+- [Vision Transformer](https://github.com/tahmid0007/VisionTransformer)
